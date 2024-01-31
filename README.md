@@ -15,6 +15,7 @@ Welcome to the Healthcare Data Analysis Dashboard project! This Power BI dashboa
 5. [Dashboard Components](#dashboard-components)
 6. [Usage](#usage)
 7. [Customization](#customization)
+8. [Acknowledgements](#Acknowledgements)
 
 ## Introduction
 
