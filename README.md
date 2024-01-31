@@ -72,10 +72,6 @@ The dashboard supports integration with various healthcare data sources, includi
    - Multi-layered analytical approach, facilitating seamless transition from high-level overviews to granular data insights.
    - Empowers users to explore and understand healthcare data at various levels of detail.
 
-## Acknowledgments
-
-I would like to express my sincere gratitude to the PivotStats YouTube channel for providing invaluable insights and inspiration throughout the development of this project. The educational content on the channel played a pivotal role in shaping the direction and features of the Healthcare Data Analysis Dashboard.
-
 ## Purpose and Impact
 
 This initiative is not just a technical accomplishment; it represents a commitment to enhancing healthcare outcomes through data-driven insights. The dashboard serves as a valuable tool for various stakeholders, contributing to the convergence of health and technology.
@@ -91,5 +87,9 @@ Explore the dashboard to gain insights into healthcare trends, identify areas fo
 ## Customization
 
 Feel free to customize the dashboard to suit your specific needs. You can add additional visuals, modify existing ones, or adjust filters and parameters based on your organization's requirements.
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to the PivotStats YouTube channel for providing invaluable insights and inspiration throughout the development of this project. The educational content on the channel played a pivotal role in shaping the direction and features of the Healthcare Data Analysis Dashboard.
 
 
